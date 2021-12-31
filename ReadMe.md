@@ -3,5 +3,5 @@ Lecture Notebooks and solved exercise notebooks can be found in the
 respective folders.
 
 Ahmad Hassan <br />
-Machine Learning Engineer
+Machine Learning Engineer <br />
 Data Science Enthusiast
